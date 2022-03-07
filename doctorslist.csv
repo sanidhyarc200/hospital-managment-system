@@ -1,0 +1,21 @@
+Id ,Doctor_in_charge ,Salary ,Age ,Specialization ,DOJ,Mob
+101,Dr. singh ,50000,34,Pathologist ,3/3/1999,9034512345
+102,Dr. kapoor ,52000,45,Pathologist ,6/5/2021,6366991246
+103,Dr. kapadia ,45000,43,Pathologist ,4/6/2004,9254687521
+104,Dr. shah ,54000,23,infectious disease,1/3/2004,9256487520
+105,Dr. geller ,56000,32,infectious disease,5/6/2011,9876541236
+106,Dr. khan ,56000,53,infectious disease,7/8/2009,9654875612
+107,Dr. malhotra ,57000,65,infectious disease,8/9/2019,9658456213
+108,Dr. sen ,59000,31,Cardiologist ,10/10/1998,9854675213
+109,Dr. gupta ,60000,25,Cardiologist ,12/10/1996,9856416657
+110,Dr. goyal ,65000,27,Endocrinologist ,13-12-2011,9854263217
+111,Dr. mittal ,65000,42,Pathologist ,21-07-2019,9564785213
+112,Dr. shaikh ,70000,47,Pathologist ,20-10-2008,9658458741
+113,Dr. bansal ,74000,54,infectious disease,14-12-2017,8865478965
+114,Dr. chhabra ,65000,46,Dermatologist,15-12-2011,8546321456
+115,Dr. kulkarni ,78000,35,Pathologist ,31-03-2004,8564584658
+116,Dr. bagga ,79000,38,Cardiologist ,23-08-2018,9654785469
+117,Dr. singhania ,77000,42,Endocrinologist ,17-03-2019,9545687456
+118,Dr. khanna ,54000,47,infectious disease,15-08-2003,9213654785
+119,Dr. sood ,57000,56,infectious disease,25-02-2021,9654785412
+120,Dr. chawla ,60000,53,infectious disease,31-03-2009,9546521365
